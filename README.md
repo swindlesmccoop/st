@@ -9,6 +9,6 @@
 ```
 
 ## Software Made to Work With This
-- [DWM](/swindlesmccoop/dwm)
-- [DWMBlocks](/swindlesmccoop/dwmblocks)
-- [DMenu](/swindlesmccoop/dmenu)
+- [DWM](https://github.com/swindlesmccoop/dwm)
+- [DWMBlocks](https://github.com/swindlesmccoop/dwmblocks)
+- [DMenu](https://github.com/swindlesmccoop/dmenu)
